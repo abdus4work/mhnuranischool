@@ -4,7 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "install": "npm install && npm --prefix frontend install",
+    "setup": "npm install && npm --prefix frontend install",
 
     "build": "npm run build --prefix frontend",
 
