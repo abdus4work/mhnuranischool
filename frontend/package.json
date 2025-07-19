@@ -38,6 +38,7 @@
     "jspdf": "^3.0.1",
     "libphonenumber-js": "^1.12.9",
     "lucide-react": "^0.515.0",
+    "mh-fees-tracking-backend": "file:..",
     "react": "^19.1.0",
     "react-day-picker": "^9.7.0",
     "react-dom": "^19.1.0",
